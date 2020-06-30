@@ -1025,7 +1025,7 @@
           }
         },
         "summary": "Download Document",
-        "description": "Download document file by `dcoumentId`. \n",
+        "description": "Download document file by `dcoumentId`. ...\n",
         "operationId": "download-document",
         "tags": [
           "Document"
